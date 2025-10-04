@@ -1,2 +1,6 @@
 # zhengbensharingdaily
-Sharing my daily learning and interests.
+# About me
+This is Ben Zheng WaiHong
+
+# This Repository
+
