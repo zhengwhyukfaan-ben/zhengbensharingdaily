@@ -5,7 +5,7 @@
 This is Ben Zheng WaiHong.
 
 ### Where, when, what?
-From Macau SAR, an ethnic chinese. Borned in AD 2006, a male, and currently a agnostics. 
+From Macau SAR, an ethnic chinese. Borned in AD 2006, a male, and currently a potential agnostics. 
 
 First language is Chinese, and second language is English. Cantonese and Traditonal Chinese in priority.
 
@@ -15,4 +15,4 @@ A year-two student of School of Mathematics in Zhejiang University, People's Rep
 Loving Mathematics, and interested in History, Astronomy, Sociology, Aviation, and so on. Playing basketball and riding sometimes. 
 
 # This Repository
-This is a repository to sharing my interests. And, it is under development.
+This is a repository for sharing my interests. And, it is under development.
