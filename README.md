@@ -5,7 +5,7 @@
 This is Ben Zheng WaiHong.
 
 ### Where, when, what?
-From Macau SAR, an ethnic chinese. Borned in AD 2006, a male, and currently a potential agnostics. 
+From Macau SAR, an ethnic chinese. Born in AD 2006, a male, and currently a potential agnostics. 
 
 First language is Chinese, and second language is English. Cantonese and Traditonal Chinese in priority.
 
